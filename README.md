@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=josuelopes512&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=josuelopes512&layout=compact)](https://github.com/josuelopes512/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuelopes512&show_icons=true)](https://github.com/josuelopes512/github-readme-stats)
 
