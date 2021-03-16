@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=josuelopes512&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuelopes512&show_icons=true)](https://github.com/josuelopes512/github-readme-stats)
 
 [![Linkedin: Josué Lopes](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josu%C3%A9-lopes-699b3b1a3//)](https://www.linkedin.com/in/josu%C3%A9-lopes-699b3b1a3/) 
