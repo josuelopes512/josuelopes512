@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 [![Linkedin: Josué Lopes](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josu%C3%A9-lopes-699b3b1a3//)](https://www.linkedin.com/in/josu%C3%A9-lopes-699b3b1a3/) 
 [![Youtube: Josué Lopes](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCT-a-M8UeUvUcueU8D9xNEw)](https://www.youtube.com/channel/UCT-a-M8UeUvUcueU8D9xNEw)
+
+![Snake animation](https://github.com/josuelopes512/josuelopes512/blob/output/github-contribution-grid-snake.svg)
