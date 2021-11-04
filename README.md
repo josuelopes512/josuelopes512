@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=josuelopes512&theme=chartreuse-dark&layout=compact)](https://github.com/josuelopes512/github-readme-stats)
  -->
 <div>
-  <a href="https://github.com/chrisalid">
+  <a href="https://github.com/josuelopes512">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josuelopes512&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuelopes512&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
